@@ -1,8 +1,7 @@
 # 7DaysOfCode - Desafio JavaScript
 
 <h2>📌 Sobre o Desafio </h2>
-
-Durante 7 dias, serão desenvolvidos desafios práticos de JavaScript, abrangendo desde estruturas de controle de fluxo até funções e manipulação de dados. 
+Desafio proposto pela <strong>ONE - Oracle Next Education</strong>, no qual, durante 7 dias, serão desenvolvidos desafios práticos de JavaScript, abrangendo desde estruturas de controle de fluxo até funções e manipulação de dados.
 Cada dia trará um novo desafio com um problema específico a ser resolvido com JavaScript.
 
 <h3>🎯 Objetivos</h3>
